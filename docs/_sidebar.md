@@ -2,31 +2,15 @@
 
 ---
 
-- [Accessibility](main-content/accessibility)
-- [Metadata standards](main-content/metadata-standards)
-
----
-
-- [Help users to...](main-content/steps/help-users-intro)
+- [UX Outputs](main-content/ux-outputs)
   
-  - [Discover your portal](main-content/steps/discover-your-portal)
-  - [Check if a portal is relevant](main-content/steps/check-a-portal-is-relevant)
-  - [Navigate the portal](main-content/steps/navigate-the-portal)
-  - [Search for data](main-content/steps/search-for-data)
-  - [Make sense of search results](main-content/steps/make-sense-of-search-results)
-  - [Assess dataset relevance](main-content/steps/assess-dataset-relevance)
-  - [Assess dataset quality](main-content/steps/assess-data-quality)
-  - [Explore data online](main-content/steps/explore-data-online)
-  - [Use data](main-content/steps/use-data)
-<!--  - [TEMPLATE](main-content/steps/_template) -->
+  - [Personas](main-content/ux-output-1)
+  - [User journeys](main-content/ux-output-2)
+  - [UX output 3](main-content/ux-output-3)
 
 ---
 
-- [Example pages](main-content/pages/pages-intro)
-
-  - [Homepage](main-content/pages/homepage)
-  - [Search/Search results](main-content/pages/search-and-results)
-  - [Dataset details](main-content/pages/dataset-details)
+- [The Team](main-content/the-team)
 
 <!--   - [TEMPLATE](main-content/pages/_template) -->
   
