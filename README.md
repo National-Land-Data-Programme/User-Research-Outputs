@@ -3,7 +3,7 @@
 * **[View UX Outputs](https://national-land-data-programme.github.io/User-Research-Outputs/)**
 
 
-## How to Edit Content
+## How to create/edit Content
 
 * Landing page can be edited from `docs/_coverpage.md`
 * The sidebar can be edited from `docs/_sidebar.md`
