@@ -62,3 +62,7 @@ h1 {
 summary {
     cursor: pointer;
 }
+
+.sidebar-nav>ul>li>ul>li>ul>li>a:before, .sidebar-nav>ul>li>ul>li>ul>li.active>a:before {
+    content: none;
+}
