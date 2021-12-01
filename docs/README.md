@@ -1,7 +1,5 @@
-## Ready to design or develop a geospatial portal?
+## Contents
 
-* Start with the [Introduction](main-content/introduction)
-
-## Have a specific question?
-
-* Use the search bar in the top left to search this documentation
+* [Introduction](main-content/introduction)
+* [User Research Outputs](main-content/ux-outputs)
+* [The team](main-content/the-team)

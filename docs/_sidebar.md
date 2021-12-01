@@ -2,7 +2,7 @@
 
 ---
 
-- [UX Outputs](main-content/ux-outputs)
+- [User Research Outputs](main-content/ux-outputs)
   
   - [Personas](main-content/ux-output-1)
   - [User journeys](main-content/ux-output-2)
