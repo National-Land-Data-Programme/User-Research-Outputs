@@ -2,7 +2,7 @@
 
 
 
-![logo](_media/wireframes-v2.svg)
+![Business vector created by pikisuperstar - www.freepik.com](_media/people-ux.svg)
 
 # User Research Outputs <small>0.1</small>
 
