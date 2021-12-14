@@ -6,8 +6,9 @@
 *	West Midlands
 
 ## Outputs
-
+<div class="image-container">
 ![](./media/image1.png)
+</div>
 
 #### National land data Programme
 
