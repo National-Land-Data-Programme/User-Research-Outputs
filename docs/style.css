@@ -2,10 +2,6 @@ h1 {
     line-height: 1.2 !important;
 }
 
-h4{
-    color: #dbdd77;
-}
-
 :root {
     --zoomimage-overlay-background: rgba(0, 0, 0, 0.875);
 }
@@ -60,7 +56,7 @@ h4{
 
 .image-container {
     padding: 16px 32px;
-    background: #2b5a68;
+    background: #F9F9F9;
 }
 
 summary {
