@@ -8,15 +8,15 @@
 ## Outputs
 <div class="image-container">
 
-![](./media/image1.png)
-
-</div>
+![BGS Logo](./media/image1.png)
 
 <h4> 
 
 #### National land data Programme
 
 </h4>
+
+</div>
 
 ### Pilot Area Persona -- Devon
 
