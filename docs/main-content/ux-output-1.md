@@ -9,18 +9,18 @@
 
 ![](./media/image1.png)
 
-National land data Programme
+#### National land data Programme
 
-Pilot Area Persona -- Devon
+### Pilot Area Persona -- Devon
 
-Tom Fletcher and Darren Beriro
+**Tom Fletcher and Darren Beriro**
 
 This document summarises a collective understanding of the National Land
 Data Programme (NLDP) Devon pilot area. It introduces the pilot area
 partners and provides an outline of their progress, ambitions, risks and
 opportunities in the context of the NLDP.
 
-Who is working on the pilot area project?
+**Who is working on the pilot area project?**
 
 The Devon pilot area is being led by [Food, Farming and Countryside
 Commission](https://ffcc.co.uk/) (FFCC), a UK wide charity funded
@@ -54,19 +54,14 @@ Devon County Council. It aims to enable local stakeholders to identify
 and implement lost cost flood adaptation and resilience measures.
 
 Key contacts and roles for FFCC include:
-
 -   Alison Caffyn, Senior Researcher: Land Use
-
 -   Tom Burston, Director of Policy and Research
-
 -   Nick Paling, Project Manager, Westcountry Rivers Trust
-
 -   Sarah Wigley, Westcountry Rivers Trust
-
 -   Data specialist to be recruited at Environment Agency, working with
     Tom Dauben, Flood & Coastal Risk Management Senior Advisor
 
-Who are the local partners?
+**Who are the local partners?**
 
 FFCC work with a number of partners in the Devon pilot area data owners
 and users, decision-makers and impacted parties e.g. Westcountry Rivers
@@ -78,35 +73,35 @@ transition towards more sustainable farming systems. They are interested
 in how the developing a Devon Land Use Framework will deliver more
 resilient and adaptive land use decision-making.
 
-What problems are planned to be addressed during the NLDP?
+**What problems are planned to be addressed during the NLDP?**
 
 -   Currently, land use decision making across England is fragmented.
-    > There is a historic divide between landowners making decisions
-    > about their future land use and management and the planning system
-    > which addresses housing, industry and infrastructure type
-    > development.
+    There is a historic divide between landowners making decisions
+    about their future land use and management and the planning system
+    which addresses housing, industry and infrastructure type
+    development.
 
 -   Land use guidance and data is also fragmented and often conflicting
-    > across governmental departments e.g. between planning for nature
-    > and the environment, for agriculture, for housing and for
-    > economic, infrastructure, energy, defence developments.
+    across governmental departments e.g. between planning for nature
+    and the environment, for agriculture, for housing and for
+    economic, infrastructure, energy, defence developments.
 
 -   Land use decisions often do not take into account the same factors,
-    > use the same data sources or consider neighbouring land uses.
+    use the same data sources or consider neighbouring land uses.
 
 -   A framework for would help decision makers use the same principles
-    > and take a more strategic approach to work towards government
-    > targets.
+    and take a more strategic approach to work towards government
+    targets.
 
 -   Some critical factors are not currently taken into account when
-    > making a land use decision such as the need to sustainably feed
-    > ourselves and the links between urban and rural areas.
+    making a land use decision such as the need to sustainably feed
+    ourselves and the links between urban and rural areas.
 
 -   The wider impact of land use decisions is not always considered,
-    > e.g. draining a field can increase the damage caused by flooding
-    > in an adjacent area.
+    e.g. draining a field can increase the damage caused by flooding
+    in an adjacent area.
 
-What does success look like for FFCC?
+**What does success look like for FFCC?**
 
 Within the duration of the NLDP, FFCC plans to co-produce a land use
 framework in partnership with many local stakeholders. This will include
@@ -129,7 +124,7 @@ be a key part of the framework. It will also include guidance on key
 engagements within the community which should be undertaken when making
 decisions.
 
-Risks and opportunities
+**Risks and opportunities**
 
 -   A framework that could be adopted in policy
 
