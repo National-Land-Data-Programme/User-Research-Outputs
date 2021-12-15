@@ -137,6 +137,12 @@ decisions.
 
 **\<\<END>\>**
 
+<div class="image-container">
+
+![BGS Logo](./media/image1.png)
+
+</div>
+
 ### Pilot Area Persona -- Northern Ireland
 
 **Darren Beriro and Tom Fletcher**
@@ -240,6 +246,12 @@ initiatives.
     categorisation
 
 **\<\<END>\>**
+
+<div class="image-container">
+
+![BGS Logo](./media/image1.png)
+
+</div>
 
 ### Pilot Area Persona -- West Midlands
 
