@@ -1,12 +1,14 @@
 # Personas
 
 ## Locations
-*	Devon
-*	Northern Ireland
-*	West Midlands
+>*	[Devon](#devon)
+>*	[Northern Ireland](#ni)
+>*	[West Midlands](#wm)
 
 ## Outputs
 <div class="image-container">
+
+<a id="devon"></a>
 
 ![BGS Logo](./media/image1.png)
 
@@ -139,6 +141,8 @@ decisions.
 
 <div class="image-container">
 
+<a id="ni"></a>
+
 ![BGS Logo](./media/image1.png)
 
 </div>
@@ -248,6 +252,8 @@ initiatives.
 **\<\<END>\>**
 
 <div class="image-container">
+
+<a id="wm"></a>
 
 ![BGS Logo](./media/image1.png)
 
