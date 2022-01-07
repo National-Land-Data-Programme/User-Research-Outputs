@@ -10,7 +10,7 @@
 
 <img src="main-content/personas/../media/BGS-Logo-Pos-RGB.svg" class="bgs-logo">
 
-## Pilot Area Overview -- West Midlands
+# Pilot Area Overview -- West Midlands
 
 ### Darren Beriro and Tom Fletcher
 
