@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <img src="main-content/personas/../media/BGS-Logo-Pos-RGB.svg" class="bgs-logo">
+=======
+<img src="../media/BGS-Logo-Pos-RGB.svg" class="bgs-logo">
+>>>>>>> c97628503931c9bbda7d3c21d103b9a41a0ee177
 
 # Pilot Area Persona -- West Midlands
 
