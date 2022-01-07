@@ -5,6 +5,9 @@
 - [User Research Outputs](main-content/ux-outputs)
   
   - [Personas](main-content/ux-output-1)
+    - [West Midlands persona](main-content/personas/persona1.md)
+    - [Northern Ireland persona](main-content/personas/persona2.md)
+    - [Devon persona](main-content/personas/persona3.md)
   - [User journeys](main-content/ux-output-2)
   - [UX output 3](main-content/ux-output-3)
 

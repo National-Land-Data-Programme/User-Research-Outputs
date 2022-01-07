@@ -1,16 +1,6 @@
-# Personas
-
-<!-- >*	[West Midlands persona](main-content/personas/persona1.md)
->*	[Northern Ireland persona](main-content/personas/persona2.md)
->*	[Devon persona](main-content/personas/persona3.md) -->
-
-<!-- tabs:start -->
-
-#### **West Midlands**
-
 <img src="/main-content/personas/../media/BGS-Logo-Pos-RGB.svg" class="bgs-logo">
 
-## Pilot Area Persona -- West Midlands
+# Pilot Area Persona -- West Midlands
 
 **Darren Beriro and Tom Fletcher**
 
@@ -133,15 +123,3 @@ be influenced by the NLDP and West Midlands Land Use Platform.
     practice for WM
 
 **\<\<END>\>**
-
-#### **Northern Ireland**
-
-Bonjour!
-
-#### **Devon**
-
-Ciao!
-
-<!-- tabs:end -->
-
-
