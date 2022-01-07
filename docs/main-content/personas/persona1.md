@@ -1,6 +1,6 @@
 <img src="/main-content/personas/../media/BGS-Logo-Pos-RGB.svg" class="bgs-logo">
 
-# Pilot Area Persona -- West Midlands
+# Pilot Area Persona -- Main persona
 
 **Darren Beriro and Tom Fletcher**
 
