@@ -1,4 +1,4 @@
-<img src="/main-content/personas/../media/BGS-Logo-Pos-RGB.svg" class="bgs-logo">
+<img src="../media/BGS-Logo-Pos-RGB.svg" class="bgs-logo">
 
 # Pilot Area Persona -- West Midlands
 
