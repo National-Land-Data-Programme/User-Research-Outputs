@@ -55,3 +55,11 @@ timelines by the end of the year.
 
 **\<\<END>\>**
 
+[^1]: Business Planning Brief - NLDP (external version); 20210726-NLDP
+    GC Communications Plan; 2021-10-04 - RACI matrix - NLDP Pilot sites;
+    2021-10-06 - NLD Programme Board Pack; 2021-06-11 - NLD Partners
+    Pack_from Keiran
+
+[^2]: OSNI Land Cover and Use -- NLDP Pilot Proposal; 21.9.30 Devon land
+    use pilot project plan summary; 2021-05-25 West Midlands CA - NLD
+    participation
