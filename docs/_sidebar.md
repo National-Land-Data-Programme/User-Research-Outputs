@@ -5,12 +5,24 @@
 
 - [User Research Outputs](main-content/ux-outputs)
   
-  - [Pilot Overviews](main-content/ux-output-1)
-    - [West Midlands Overview](main-content/personas/persona1.md)
-    - [Northern Ireland Overview](main-content/personas/persona2.md)
-    - [Devon Overview](main-content/personas/persona3.md)
-  - [User journeys](main-content/ux-output-2)
-  - [UX output 3](main-content/ux-output-3)
+  - [Pilot Areas](main-content/ux-output-1)
+    - [West Midlands Use Case](main-content/personas/persona1.md)
+      - [West Midlands Personas]
+        - [Persona 1 e.g. town planner]
+          - [Who are they]
+          - [How do they spend their time]
+          - [Problem statement]
+          - [Opportunities]
+        - [Persona 2 e.g. transport planner]
+      - [West Midlands User Stories]
+        - [User story 1 e.g. identifying sites]
+          - [What is the current process]
+          - [where is the greatest effort required]
+          - [What could the process look like with the creation of the NLDP]
+        - [User Story 2 e.g asessing feasibility]
+    - [Northern Ireland Use Case](main-content/personas/persona2.md)
+    - [Devon Use Case](main-content/personas/persona3.md)
+  
 
 ---
 
