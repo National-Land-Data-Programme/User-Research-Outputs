@@ -14,7 +14,6 @@
 - And more...
 
 [Introduction](main-content/introduction)
-[UX Outputs](main-content/ux-outputs)
 
 <!-- background color -->
 ![color](#4f4f4f)

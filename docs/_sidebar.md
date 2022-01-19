@@ -1,25 +1,17 @@
 - [Introduction](main-content/introduction)
-- [Overview](main-content/NLDP-Overview)
 
 ---
 
 - [User Research Outputs](main-content/ux-outputs)
   
   - [Pilot Areas](main-content/ux-output-1)
-    - [West Midlands Use Case](main-content/personas/persona1.md)
-      - [West Midlands Personas]
-        - [Persona 1 e.g. town planner]
-          - [Who are they]
-          - [How do they spend their time]
-          - [Problem statement]
-          - [Opportunities]
-        - [Persona 2 e.g. transport planner]
-      - [West Midlands User Stories]
-        - [User story 1 e.g. identifying sites]
-          - [What is the current process]
-          - [where is the greatest effort required]
-          - [What could the process look like with the creation of the NLDP]
-        - [User Story 2 e.g asessing feasibility]
+    - [West Midlands Use Case](main-content/usecases/wm.md)
+      - West Midlands Personas
+        - [Transport Planner](main-content/personas/wmtransportplanner.md)
+        - Persona 2 e.g. town planner
+      - West Midlands User Stories
+        - [Collecting Data for Transport Modelling from a Public organisation](main-content/userstories/wmus1.md)
+        - User Story 2 e.g asessing feasibility
     - [Northern Ireland Use Case](main-content/personas/persona2.md)
     - [Devon Use Case](main-content/personas/persona3.md)
   
