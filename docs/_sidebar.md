@@ -2,7 +2,7 @@
 
 ---
 
-- [User Research Outputs](main-content/ux-outputs)
+- User Research Outputs
   
   - [Pilot Areas](main-content/ux-output-1)
     - [West Midlands Use Case](main-content/usecases/wm.md)
@@ -12,8 +12,8 @@
       - West Midlands User Stories
         - [Collecting Data for Transport Modelling from a Public organisation](main-content/userstories/wmus1.md)
         - User Story 2 e.g asessing feasibility
-    - [Northern Ireland Use Case](main-content/personas/persona2.md)
-    - [Devon Use Case](main-content/personas/persona3.md)
+    - [Northern Ireland Use Case](main-content/usecases/ni.md)
+    - [Devon Use Case](main-content/usecases/dvn.md)
   
 
 ---
