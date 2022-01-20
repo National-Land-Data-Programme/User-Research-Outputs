@@ -16,9 +16,9 @@
     - [Devon Use Case](main-content/usecases/dvn.md)
   
 
----
+<!-- --- -->
 
-- [The Team](main-content/the-team)
+<!-- - [The Team](main-content/the-team) -->
 
 <!--   - [TEMPLATE](main-content/pages/_template) -->
   
