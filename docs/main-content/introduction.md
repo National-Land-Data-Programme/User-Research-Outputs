@@ -64,7 +64,6 @@ timelines by the end of the year.
 ### Use Cases
 
 >NEED TO EXPLAIN WHAT'S INCLUDED IN THE USE CASE - PROBLEM STATEMENTS, PERSONAS, USER STORIES AND BENEFITS ASSESSMENT
-
 >The use cases for each pilot area point of contact will describe where the national land data platform fits in with their particular ambitions and those of their stakeholders. They will be presented as a statement of how the NLDP will help them succeed
 
 ### Personas
