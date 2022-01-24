@@ -50,10 +50,8 @@ timelines by the end of the year.
 
 
 ## User requirements research outputs
-*	Pilot Area Overviews
-*	Polot Area Use Cases
-*	Pilot Area Stakeholder Personas
-*   Pilot Area Stakeholder User Stories
+
+The user requirements gathering will produce a set of outputs consistent with the Programme project management specification including Deliverables (D4, D5, D6, D7, D8).
 
 ### Pilot Area Overviews
 
