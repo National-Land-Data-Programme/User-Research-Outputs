@@ -47,8 +47,6 @@ timelines by the end of the year.
 
 <img src="main-content/media/NLDP-Workstreams.png">
 
-**\<\<END>\>**
-
 
 
 ## User requirements research outputs
