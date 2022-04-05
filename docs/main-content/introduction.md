@@ -82,12 +82,3 @@ The user requirements gathering will produce a set of outputs consistent with th
 ## Other resources
 
 - [Press release]()
-
-<script src="https://utteranc.es/client.js"
-        repo="https://github.com/National-Land-Data-Programme/User-Research-Outputs"
-        issue-term="pathname"
-        label="comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
